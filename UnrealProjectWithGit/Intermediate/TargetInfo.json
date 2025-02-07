@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealProjectWithGit",
+			"Path": "..\\Source\\UnrealProjectWithGit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealProjectWithGitEditor",
+			"Path": "..\\Source\\UnrealProjectWithGitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

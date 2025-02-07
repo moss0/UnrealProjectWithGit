@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\2317919\\Documents\\GitHub\\UnrealProjectWithGit\\UnrealProjectWithGit\\Source\\UnrealProjectWithGit\\UnrealProjectWithGit.Build.cs",
+		"C:\\Users\\2317919\\Documents\\GitHub\\UnrealProjectWithGit\\UnrealProjectWithGit\\Source\\UnrealProjectWithGit.Target.cs",
+		"C:\\Users\\2317919\\Documents\\GitHub\\UnrealProjectWithGit\\UnrealProjectWithGit\\Source\\UnrealProjectWithGitEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

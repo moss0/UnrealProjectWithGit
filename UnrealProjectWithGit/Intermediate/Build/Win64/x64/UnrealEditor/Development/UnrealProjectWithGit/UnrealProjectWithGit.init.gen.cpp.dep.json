@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2317919\\documents\\github\\unrealprojectwithgit\\unrealprojectwithgit\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealprojectwithgit\\uht\\unrealprojectwithgit.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2317919\\documents\\github\\unrealprojectwithgit\\unrealprojectwithgit\\intermediate\\build\\win64\\x64\\unrealprojectwithgiteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2317919\\documents\\github\\unrealprojectwithgit\\unrealprojectwithgit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealprojectwithgit\\definitions.unrealprojectwithgit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
