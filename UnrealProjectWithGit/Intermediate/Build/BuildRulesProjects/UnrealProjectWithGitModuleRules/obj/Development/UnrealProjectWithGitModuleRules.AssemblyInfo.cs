@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnrealProjectWithGitModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c9d9f38d1b061b9afcbccb480c0f2ad9b41982c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnrealProjectWithGitModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnrealProjectWithGitModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
